@@ -1,5 +1,3 @@
-# emails = open('emails.txt', "r")
-# print(emails.read())
 import utilities
 
 with open('emails.txt') as emails: #giving it an alias so easy to reference
